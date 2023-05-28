@@ -1,10 +1,10 @@
 <template>
-  <Tutorial/>
-  <p>あああ</p>
+  <Tutorial />
+  <p>あ</p>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage'
-}
+  name: "IndexPage",
+};
 </script>
